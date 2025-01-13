@@ -24,6 +24,9 @@ bio = {
 
 <h3 align="center">Featured Projects</h3>
 <p align="center">
+  <a href="https://github.com/darkxdd/Disease-Prediction-and-Drug-Recommendation-Prototype">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=darkxdd&repo=Disease-Prediction-and-Drug-Recommendation-Prototype&theme=tokyonight&hide_border=true" />
+  </a>
   <a href="https://github.com/darkxdd/google_meet_automation">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=darkxdd&repo=google_meet_automation&theme=tokyonight&hide_border=true" />
   </a>
