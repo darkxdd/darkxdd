@@ -24,27 +24,17 @@ bio = {
 
 <h3 align="center">Featured Projects</h3>
 <p align="center">
-  <a href="https://github.com/darkxdd/Disease-Prediction-and-Drug-Recommendation-Prototype">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=darkxdd&repo=Disease-Prediction-and-Drug-Recommendation-Prototype&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/darkxdd/google_meet_automation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=darkxdd&repo=google_meet_automation&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/darkxdd/snek">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=darkxdd&repo=snek&theme=tokyonight&hide_border=true" />
-  </a>
+  <a href="https://github.com/darkxdd/Disease-Prediction-and-Drug-Recommendation-Prototype"><img src="https://github-readme-stats.vercel.app/api/pin/?username=darkxdd&repo=Disease-Prediction-and-Drug-Recommendation-Prototype&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/darkxdd/google_meet_automation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=darkxdd&repo=google_meet_automation&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/darkxdd/snek"><img src="https://github-readme-stats.vercel.app/api/pin/?username=darkxdd&repo=snek&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/darkxdd/figma-metadata-viewer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=darkxdd&repo=figma-metadata-viewer&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/darkxdd/realtime-emogenage"><img src="https://github-readme-stats.vercel.app/api/pin/?username=darkxdd&repo=realtime-emogenage&theme=tokyonight&hide_border=true" /></a>
 </p>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/puneethx/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/tfwasmyname/">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://darkxdd.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
-  </a>
+  <a href="https://www.linkedin.com/in/puneethx/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/tfwasmyname/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://darkxdd.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
 </div>
 
 <picture>
