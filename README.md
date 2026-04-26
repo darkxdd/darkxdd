@@ -35,11 +35,11 @@ Here is a deeper look at the core technologies I work with:
 ### 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/darkxdd/Disease-Prediction-and-Drug-Recommendation-Prototype"><img src="https://github-readme-stats.shion.dev/api/pin/?username=darkxdd&repo=Disease-Prediction-and-Drug-Recommendation-Prototype&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/darkxdd/realtime-emogenage"><img src="https://github-readme-stats.shion.dev/api/pin/?username=darkxdd&repo=realtime-emogenage&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/darkxdd/google_meet_automation"><img src="https://github-readme-stats.shion.dev/api/pin/?username=darkxdd&repo=google_meet_automation&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/darkxdd/snek"><img src="https://github-readme-stats.shion.dev/api/pin/?username=darkxdd&repo=snek&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/darkxdd/figma-metadata-viewer"><img src="https://github-readme-stats.shion.dev/api/pin/?username=darkxdd&repo=figma-metadata-viewer&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/ep0chzero/Disease-Prediction-and-Drug-Recommendation-Prototype"><img src="https://github-readme-stats.shion.dev/api/pin/?username=ep0chzero&repo=Disease-Prediction-and-Drug-Recommendation-Prototype&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/ep0chzero/realtime-emogenage"><img src="https://github-readme-stats.shion.dev/api/pin/?username=ep0chzero&repo=realtime-emogenage&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/ep0chzero/google_meet_automation"><img src="https://github-readme-stats.shion.dev/api/pin/?username=ep0chzero&repo=google_meet_automation&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/ep0chzero/snek"><img src="https://github-readme-stats.shion.dev/api/pin/?username=ep0chzero&repo=snek&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/ep0chzero/figma-metadata-viewer"><img src="https://github-readme-stats.shion.dev/api/pin/?username=ep0chzero&repo=figma-metadata-viewer&theme=tokyonight&hide_border=true" /></a>
 </p>
 
 ---
@@ -47,11 +47,11 @@ Here is a deeper look at the core technologies I work with:
 ### 📈 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=darkxdd&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=ep0chzero&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
   <br />
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/darkxdd/darkxdd/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/darkxdd/darkxdd/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/darkxdd/darkxdd/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ep0chzero/ep0chzero/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ep0chzero/ep0chzero/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ep0chzero/ep0chzero/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
